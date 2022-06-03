@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "https://ditholease.github.io/csb-22xlhz/static/js/main.b26a3127.chunk.js",
+    "main.js.map": "https://ditholease.github.io/csb-22xlhz/static/js/main.b26a3127.chunk.js.map",
+    "runtime-main.js": "https://ditholease.github.io/csb-22xlhz/static/js/runtime-main.5b2f3788.js",
+    "runtime-main.js.map": "https://ditholease.github.io/csb-22xlhz/static/js/runtime-main.5b2f3788.js.map",
+    "static/css/2.b831a406.chunk.css": "https://ditholease.github.io/csb-22xlhz/static/css/2.b831a406.chunk.css",
+    "static/js/2.49d4f266.chunk.js": "https://ditholease.github.io/csb-22xlhz/static/js/2.49d4f266.chunk.js",
+    "static/js/2.49d4f266.chunk.js.map": "https://ditholease.github.io/csb-22xlhz/static/js/2.49d4f266.chunk.js.map",
+    "index.html": "https://ditholease.github.io/csb-22xlhz/index.html",
+    "static/css/2.b831a406.chunk.css.map": "https://ditholease.github.io/csb-22xlhz/static/css/2.b831a406.chunk.css.map",
+    "static/js/2.49d4f266.chunk.js.LICENSE.txt": "https://ditholease.github.io/csb-22xlhz/static/js/2.49d4f266.chunk.js.LICENSE.txt",
+    "static/media/index.css": "https://ditholease.github.io/csb-22xlhz/static/media/inter-vietnamese-400-normal.bc4d5149.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b2f3788.js",
+    "static/css/2.b831a406.chunk.css",
+    "static/js/2.49d4f266.chunk.js",
+    "static/js/main.b26a3127.chunk.js"
+  ]
+}
